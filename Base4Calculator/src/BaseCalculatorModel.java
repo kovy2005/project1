@@ -139,6 +139,10 @@ public class BaseCalculatorModel{
 				
 	return;
 		
+		//I plan to make this function more advanced. 
+		//My goal is to make it read a math expression and solve it
+		//Using operation order (i.e. (3 + 4) - 10 / 5 = )
+		
 	}
 	
 	
